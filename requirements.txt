@@ -1,0 +1,9 @@
+# Core notebooks only; CV/NLP dependencies are described in README.md.
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+joblib
